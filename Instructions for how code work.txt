@@ -1,0 +1,26 @@
+Instructions for using the calculator:
+
+
+Run the program.
+Enter the first number, followed by a space.
+Enter the desired operation (+, -, *, or /), followed by another space.
+Enter the second number.
+The program will then display the result of the operation. If any errors occur, such as invalid input format or division by zero, appropriate error messages will be shown.
+
+
+
+
+Instructions how Java program processes the provided student data:
+
+
+Prepare Data:
+The program has some student data like "John:85, Alice:92, Bob:78, Carol:95, David:88, Emma:79, Frank:90" to work with.
+
+Organize Data:
+It separates each student's name and their score from the data and stores them in separate lists.
+
+Analyze Data:
+It counts the total number of students, calculates the average score of all students, and identifies the student with the highest and lowest scores.
+
+Display Results:
+It then shows the total number of students, the average score, the highest scorer's name and score, and the lowest scorer's name and score.
